@@ -48,6 +48,10 @@
      <Compile Include="Assets/Scripts/TextureGenerator.cs" />
      <Compile Include="Assets/Scripts/MeshGenerator.cs" />
      <Compile Include="Assets/Scripts/FalloffGenerator.cs" />
+     <Compile Include="Assets/Scripts/HideOnPlay.cs" />
+     <Compile Include="Assets/Scripts/PlayerCam.cs" />
+     <Compile Include="Assets/Scripts/MoveCamera.cs" />
+     <Compile Include="Assets/Scripts/PlayerMouvement.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Materials" />
      <Folder Include="Assets/Scripts" />
