@@ -1,1 +1,2 @@
-Temp/ScriptUpdater/1531983142/564486323_MapGenerator.cs => Assets/Scripts/MapGenerator.cs
+Temp/ScriptUpdater/1531983142/1096745225_EndlessTerrain.cs => Assets/Scripts/EndlessTerrain.cs
+Temp/ScriptUpdater/1531983142/2110721443_MapGenerator.cs => Assets/Scripts/MapGenerator.cs
