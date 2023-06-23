@@ -41,7 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Editor/MapGeneratorEditor.cs" />
+     <Compile Include="Assets/Editor/UpdatableDataEditor.cs" />
+     <Compile Include="Assets/Editor/MapPreviewEditor.cs" />
      <Folder Include="Assets/Editor" />
      <Reference Include="UnityEngine">
      <HintPath>/home/nathan/Unity/Hub/Editor/2021.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
